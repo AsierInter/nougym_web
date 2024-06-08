@@ -1,0 +1,10 @@
+{
+    "header" : {
+        "service" : "SERVEIS",
+        "products" : "PRODUCTES",
+        "afiliations" : "AFILIACIONS",
+        "timetable" : "HORARI",
+        "contact" : "CONTACTA'NS",
+        "language" : "IDIOMA"
+}
+}
